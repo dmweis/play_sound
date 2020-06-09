@@ -32,3 +32,7 @@ To list audio devices use:
 ``` console
 play_sound -l
 ```
+
+## License
+
+This project is dual licensed under MIT and Apache
