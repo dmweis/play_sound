@@ -11,6 +11,14 @@ Install from this repository using:
 cargo install --git https://github.com/dmweis/play_sound
 ```
 
+Install from source:
+
+``` console
+git clone https://github.com/dmweis/play_sound.git
+cd play_sound
+cargo install --path .
+```
+
 If you are having issues building on linux because of alsa-sys you may need to install `libasound2-dev`
 
 ## Usage
